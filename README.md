@@ -1,1 +1,1 @@
-# read_together_OOP
+# خوانش گروهی کتاب (Python Object-Oriented Programming)
